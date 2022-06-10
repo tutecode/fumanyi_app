@@ -1,6 +1,8 @@
 # fumanyi_app
 
-Un juego de Poppular
+Fumanyi App is a mobile card game to get high with your friends.
+
+## Preview
 
 ![](img-fumanyi.png)
 
