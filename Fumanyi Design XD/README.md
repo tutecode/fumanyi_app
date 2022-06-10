@@ -1,4 +1,5 @@
-![Galaxy S7-Note5 – 1](https://user-images.githubusercontent.com/54072234/77105572-a4749400-69fc-11ea-8371-07a25ea6ff4d.png) ![Galaxy S7-Note5 – 2](https://user-images.githubusercontent.com/54072234/77105673-c706ad00-69fc-11ea-8026-9aa58f2cbff8.png)
+![Galaxy S7-Note5 – 1](https://user-images.githubusercontent.com/54072234/77105572-a4749400-69fc-11ea-8371-07a25ea6ff4d.png)
+![Galaxy S7-Note5 – 2](https://user-images.githubusercontent.com/54072234/77105673-c706ad00-69fc-11ea-8026-9aa58f2cbff8.png)
 ![Galaxy S7-Note5 – 4](https://user-images.githubusercontent.com/54072234/77105797-dede3100-69fc-11ea-8885-50fd5a674df2.png)
 ![Galaxy S7-Note5 – 5](https://user-images.githubusercontent.com/54072234/77105860-f87f7880-69fc-11ea-850b-05df19c7dc5f.png)
 ![Galaxy S7-Note5 – 6](https://user-images.githubusercontent.com/54072234/77105885-0634fe00-69fd-11ea-9ed1-ddaccb3a3bc4.png)
